@@ -1,0 +1,26 @@
+self-querying-retrieval/venv_self-querying-retrieval/
+
+# Ignore .env file
+.env
+
+# # Ignore virtual environment directories (Python virtualenv, pipenv, venv) [ redundancy ]
+# self-querying-retrieval/venv/
+# self-querying-retrieval/env/
+# self-querying-retrieval/.venv/
+# self-querying-retrieval/.pipenv/
+# self-querying-retrieval/pipenv.lock
+
+# # Ignore lib directory
+# self-querying-retrieval/lib/
+# self-querying-retrieval/lib64
+
+# # Other common Python-related ignores
+# self-querying-retrieval/__pycache__/
+# self-querying-retrieval/*.pyc
+# self-querying-retrieval/*.pyo
+# self-querying-retrieval/*.pyd
+# self-querying-retrieval/*.pyz
+# self-querying-retrieval/*.pyw
+# self-querying-retrieval/*.egg-info/
+# self-querying-retrieval/dist/
+# self-querying-retrieval/build/
