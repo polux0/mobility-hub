@@ -1,4 +1,5 @@
 self-querying-retrieval/venv_self-querying-retrieval/
+memgpt/venv_memgpt
 
 # Ignore .env file
 .env
