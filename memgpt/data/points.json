@@ -1,0 +1,98 @@
+[
+    {
+      "page_content": "Local supermarket",
+      "metadata": {
+        "name": "Billa",
+        "category": "infrastructure",
+        "subcategory": "supermarket",
+        "address": "Hauptstraße 34/369, 2651 Reichenau an der Rax",
+        "opening_hours": "7am",
+        "closing_hours": "7:15pm",
+        "service_options": "Delivery, In-store pick-up, In-store shopping",
+        "accessibility": "Wheelchair-accessible car park, Wheelchair-accessible entrance",
+        "phone": "05991503445",
+        "payment_types": "Cash, Credit cards, Debit cards, NFC mobile payments",
+        "new_offers": "All cheese at half-price for the entire month of December 2023.",
+        "reviews": "Good Supermarkt With cheaps prices in AUSTRIA",
+        "website_url": "https://www.billa.at/"
+      }
+    },
+    {
+      "page_content": "",
+      "metadata": {
+        "name": "Evangelische Henriettenkapelle",
+        "category": "touristic",
+        "subcategory": "monument"
+      }
+    },
+    {
+      "page_content": "",
+      "metadata": {
+        "name": "Gasthotel Kobald",
+        "category": "hotel"
+      }
+    },
+    {
+      "page_content": "accommodation, Place to sleep, ",
+      "metadata": {
+        "name": "Haus Trautenberg",
+        "category": "hotel"
+      }
+    },
+    {
+      "page_content": "",
+      "metadata": {
+        "name": "L'attore Ristorante e Pizzeria",
+        "category": "restaurant",
+        "subcategory": "Italian"
+      }
+    },
+    {
+      "page_content": "",
+      "metadata": {
+        "name": "Parkhotel Hirschwang",
+        "category": "hotel"
+      }
+    },
+    {
+      "page_content": "",
+      "metadata": {
+        "name": "Parking 1",
+        "category": "infrastructure",
+        "subcategory": "parking"
+      }
+    },
+    {
+      "page_content": "",
+      "metadata": {
+        "name": "Payerbach-Reichenau",
+        "category": "infrastructure",
+        "subcategory": "train station"
+      }
+    },
+    {
+      "page_content": "",
+      "metadata": {
+        "name": "Schneeberg",
+        "category": "touristic",
+        "subcategory": "ski slope"
+      }
+    },
+    {
+      "page_content": "",
+      "metadata": {
+        "name": "Schwarzer Weg",
+        "category": "touristic",
+        "subcategory": "trekking trail"
+      }
+    },
+    {
+      "page_content": "",
+      "metadata": {
+        "name": "bp",
+        "category": "infrastructure",
+        "subcategory": "gas station"
+      }
+    }
+  ]
+  
